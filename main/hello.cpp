@@ -5,7 +5,7 @@ using namespace std;
 int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
-  cout << "Hello, 2nd change";
+  cout << "Hello, this is 2nd change";
   cout << "I have successfully built and run_Jeshwanth\n";
   return 0;
 }
